@@ -13,9 +13,10 @@ jobs:
         persist-credentials: false
     - name: Install and Build
       run: |
-        npm start
+
         npm install
         npm run-script build
+        npm start
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:

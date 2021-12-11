@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "aaa",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://crazyboyshi.github.io/ooo",
+=======
+  "name": "myreact",
+  "version": "0.1.0",
+  "private": true,
+   "homepage": "https://crazyboyshi.github.io/ooo",
+>>>>>>> 605b1bfcd182f057ee8d173ffc10effc16cdf420
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
